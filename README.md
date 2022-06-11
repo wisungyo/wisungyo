@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Wisnu 👋</h1>
-<h3 align="center">Mobile & Frontend Developer</h3>
+<h3 align="center">Mobile Developer</h3>
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
