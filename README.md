@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Wisnu 👋</h1>
 <h3 align="center">Mobile Developer</h3>
-
+<br />
 <h3 align="center">Find me on:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/wisungyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wisungyo" height="30" width="40" /></a>
